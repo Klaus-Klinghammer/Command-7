@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE1D82F-6E83-4330-9FEA-0713B280C483}|BottleWebProject4\\BottleWebProject4.pyproj|C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\BottleWebProject4\\views\\index.tpl||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EFE1D82F-6E83-4330-9FEA-0713B280C483}|BottleWebProject4\\BottleWebProject4.pyproj|solutionrelative:BottleWebProject4\\views\\index.tpl||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE1D82F-6E83-4330-9FEA-0713B280C483}|BottleWebProject4\\BottleWebProject4.pyproj|C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\BottleWebProject4\\views\\layout.tpl||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EFE1D82F-6E83-4330-9FEA-0713B280C483}|BottleWebProject4\\BottleWebProject4.pyproj|solutionrelative:BottleWebProject4\\views\\layout.tpl||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE1D82F-6E83-4330-9FEA-0713B280C483}|BottleWebProject4\\BottleWebProject4.pyproj|C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\BottleWebProject4\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EFE1D82F-6E83-4330-9FEA-0713B280C483}|BottleWebProject4\\BottleWebProject4.pyproj|solutionrelative:BottleWebProject4\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE1D82F-6E83-4330-9FEA-0713B280C483}|BottleWebProject4\\BottleWebProject4.pyproj|C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\BottleWebProject4\\views\\message.tpl||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EFE1D82F-6E83-4330-9FEA-0713B280C483}|BottleWebProject4\\BottleWebProject4.pyproj|solutionrelative:BottleWebProject4\\views\\message.tpl||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\BottleWebProject4\\views\\floyd.tpl||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BottleWebProject4\\views\\floyd.tpl||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "floyd.tpl",
+              "DocumentMoniker": "C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\BottleWebProject4\\views\\floyd.tpl",
+              "RelativeDocumentMoniker": "BottleWebProject4\\views\\floyd.tpl",
+              "ToolTip": "C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\BottleWebProject4\\views\\floyd.tpl",
+              "RelativeToolTip": "BottleWebProject4\\views\\floyd.tpl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-16T08:44:26.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "layout.tpl",
+              "DocumentMoniker": "C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\BottleWebProject4\\views\\layout.tpl",
+              "RelativeDocumentMoniker": "BottleWebProject4\\views\\layout.tpl",
+              "ToolTip": "C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\BottleWebProject4\\views\\layout.tpl",
+              "RelativeToolTip": "BottleWebProject4\\views\\layout.tpl",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-16T08:38:21.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "message.tpl",
+              "DocumentMoniker": "C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\BottleWebProject4\\views\\message.tpl",
+              "RelativeDocumentMoniker": "BottleWebProject4\\views\\message.tpl",
+              "ToolTip": "C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\BottleWebProject4\\views\\message.tpl",
+              "RelativeToolTip": "BottleWebProject4\\views\\message.tpl",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHsSURBVDhPvZOxaiJRFIY/J47OFbFQdweERTAWPkAewNLGxSpb5A0mxdbbxmqbLe1sLFKLhmBhkTJFOhFBLEQY46pZVIyrmWFmi8Vl5w7ZBAP7wW3O/5\u002Bfc\u002B/hBgAajcYnoApEOIwN8PVjsXgRAGi1WtNcLvczmUx\u002BkJ2v4eHhYdzr9cKFQuGdAqBpWvLQMIBEIpHSNC0BoMjiW/l/gZPJhHK5zNnZGfV6XZafJSgX\u002Bv0\u002Bu92O0WiEruuUSiWq1SrHx8eyFSEE2WzWU/NN2O/36XQ6DIdDQqEQmqax3W7pdDq\u002BMxgM5HYCADc3N87JyYlHuL\u002B/5/LykvF4TCaT4fz83KPL3N3dkc/nlWcDHcdhs9nw9PSEEAIhhEeX2Qf6rrxHURSi0SjxeBwhBNfX1xiGQa1WY71ey/Y/\u002BJbS7XZ5fHyUy1xdXWEYBre3t7TbbVKpFLFYjFwu5/H5JpzNZpim6Tuu6xKJ/P7q0\u002BkU0zSZz\u002Bdyu3/CfD4vlwBYLpdUKhXS6TSnp6foui5b4F9blrFtG8uyODo6QlVVAoGAR39xKTLBYBAhBKFQyBf2NwqA67q4ritrB6EAWJb1fbFYzBzHkfUXcRyH1Wr1w7KsGfs3bDabn8Ph8BdVVd/LDa/Btu3Vdru9KBaL32TtzfwC2hHN78\u002B1EvcAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-16T08:38:21.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.tpl",
+              "DocumentMoniker": "C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\BottleWebProject4\\views\\index.tpl",
+              "RelativeDocumentMoniker": "BottleWebProject4\\views\\index.tpl",
+              "ToolTip": "C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\BottleWebProject4\\views\\index.tpl",
+              "RelativeToolTip": "BottleWebProject4\\views\\index.tpl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-16T08:38:21.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\BottleWebProject4\\app.py",
+              "RelativeDocumentMoniker": "BottleWebProject4\\app.py",
+              "ToolTip": "C:\\Users\\eg0rg\\Desktop\\BottleWebProject4\\BottleWebProject4\\app.py",
+              "RelativeToolTip": "BottleWebProject4\\app.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-05-16T08:38:21.769Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
